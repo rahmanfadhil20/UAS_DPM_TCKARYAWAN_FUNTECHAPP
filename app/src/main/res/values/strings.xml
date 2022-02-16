@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UAS_DPM_TCKARYAWAN_FUNTECHAPP</string>
+    <string name="txt_top">Silahkan Login untuk mulai</string>
+    <string name="txt_email">Email</string>
+    <string name="txt_hint_email">example@gmail.com</string>
+    <string name="txt_hint_password">password</string>
+</resources>
